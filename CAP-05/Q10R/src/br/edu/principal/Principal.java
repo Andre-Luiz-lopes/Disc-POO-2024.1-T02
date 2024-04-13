@@ -8,7 +8,7 @@ public class Principal {
 			int qtdeMenor18 = 0;
 			double mediaIdadeTotal = 0;
 			double mediaAlturaTotal = 0;
-			int totalJogadores = 5 * 11; // 5 times com 11 jogadores cada
+			int totalJogadores = 5 * 11; 
 			int totalAcima80Kg = 0;
 
 			for (int contTime = 1; contTime <= 5; contTime++) {
