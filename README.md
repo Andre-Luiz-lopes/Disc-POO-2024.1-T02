@@ -45,19 +45,13 @@ Cap. 05 (Estrutura de Repetição)
 |17|Faça um programa para resolver equações do 2o grau.|
 |18|Dados três valores X, Y e Z, verifique se eles podem ser os comprimentos dos lados de um triângulo e, se forem, verifique se é um triângulo equilátero, isósceles ou escaleno. Se eles não formarem um triângulo, escreva uma mensagem. Considere que:|
 |19|Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre a classificação dessa pessoa.|
-|20|Faça um programa que receba: O código de um produto comprado, supondo que a digitação do código do produto seja sempre
-válida, isto é, um número inteiro entre 1 e 10; O peso do produto em quilos; O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um nú-
-mero inteiro entre 1 e 3.|
-|21|Faça um programa que receba: o código do estado de origem da carga de um caminhão, supondo que a digitação do código do
-estado seja sempre válida, isto é, um número inteiro entre 1 e 5; o peso da carga do caminhão em toneladas; o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro
-entre 10 e 40.|
+|20|Faça um programa que receba: O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10; O peso do produto em quilos; O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 1 e 3.|
+|21|Faça um programa que receba: o código do estado de origem da carga de um caminhão, supondo que a digitação do código do estado seja sempre válida, isto é, um número inteiro entre 1 e 5; o peso da carga do caminhão em toneladas; o código da carga, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 10 e 40.|
 |22|Faça um programa que receba o salário base e o tempo de serviço de um funcionário. Calcule e mostre:|
 |23|Faça um programa que receba o valor do salário mínimo, o turno de trabalho (M — matutino; V vespertino; ou N — noturno), a categoria (O — operário; G — gerente) e o número de horas trabalhadas no mês de um funcionário. Suponha a digitação apenas de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:|
 |24|Faça um programa que receba o preço, o tipo (A — alimentação; L — limpeza; e V — vestuário) e a refrigeração (S — produto que necessita de refrigeração; e N — produto que não necessita de refrigeração) de um produto. Suponha que haverá apenas a digitação de dados válidos e, quando houver digitação de letras, utilize maiúsculas. Calcule e mostre:|
 |25|Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que
-se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou
-menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário
-ou anti-horário).|
+se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).|
 
 
 
