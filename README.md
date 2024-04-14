@@ -36,7 +36,7 @@ Avaliação semestral 3
 Exame final 5
 
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue
-a tabela:
+a tabela:|
 
 </details>
 
