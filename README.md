@@ -26,8 +26,7 @@ Cap. 05 (Estrutura de Repetição)
 
 |Questão|Enunciado|
 |-------|---------|
-|01|A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um traba-
-lho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
+|01|A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas
 
 obedece aos pesos a seguir:
 
@@ -37,7 +36,7 @@ Avaliação semestral 3
 Exame final 5
 
 Faça um programa que receba as três notas, calcule e mostre a média ponderada e o conceito que segue
-a tabela:|
+a tabela:
 
 </details>
 
